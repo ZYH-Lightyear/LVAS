@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Features  
-- [ ] Release online gradio demo.
+- [✅] Release online gradio demo.
 - [ ] Release local gradio demo.
 - [ ] Release benchmark data.   
 
